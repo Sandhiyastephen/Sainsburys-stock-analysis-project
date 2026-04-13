@@ -19,4 +19,4 @@ This project analyzes stock market data using Python.
 - Observed market fluctuations
 
 ## Author
-Your Name
+Sandhiya Stephen
